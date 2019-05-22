@@ -1,8 +1,8 @@
-package com.example.Controller;
+package com.khalid.Controller;
 
-import com.example.dto.CarDTO;
-import com.example.core.BaseController;
-import com.example.core.CurdService;
+import com.khalid.dto.CarDTO;
+import com.khalid.core.BaseController;
+import com.khalid.core.CurdService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

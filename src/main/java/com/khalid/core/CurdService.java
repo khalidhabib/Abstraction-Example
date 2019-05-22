@@ -1,4 +1,4 @@
-package com.example.core;
+package com.khalid.core;
 
 import java.io.Serializable;
 import java.util.Collection;

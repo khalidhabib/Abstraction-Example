@@ -1,8 +1,7 @@
-package com.example.service;
+package com.khalid.service;
 
-import com.example.core.CurdService;
-import com.example.dao.BaseRepository;
-import org.springframework.beans.BeanUtils;
+import com.khalid.core.CurdService;
+import com.khalid.dao.BaseRepository;
 import org.springframework.stereotype.Service;
 
 import java.io.Serializable;

@@ -1,9 +1,11 @@
-package com.example.dto;
+package com.khalid.model;
 
+import javax.persistence.Entity;
 import java.io.Serializable;
 import java.util.Date;
 
-public class CarDTO implements Serializable {
+@Entity
+public class Car implements Serializable {
     private long ID;
     private String name;
     private Date createdOn;

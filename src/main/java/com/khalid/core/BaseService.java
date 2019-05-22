@@ -1,4 +1,4 @@
-package com.example.core;
+package com.khalid.core;
 
 public interface BaseService <T>{
 }

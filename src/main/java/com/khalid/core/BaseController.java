@@ -1,4 +1,4 @@
-package com.example.core;
+package com.khalid.core;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
